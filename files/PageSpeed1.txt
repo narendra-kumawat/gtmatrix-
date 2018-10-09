@@ -1,0 +1,82 @@
+RECOMMENDATION GRADE TYPE PRIORITY
+Serve resources from a consistent URL
+C (72)
+CONTENT HIGH
+Leverage browser caching
+B (80)
+SERVER HIGH
+Optimize images
+B (85)
+IMAGES HIGH
+Defer parsing of JavaScript
+A (90)
+JS HIGH
+Minimize redirects
+A (92)
+CONTENT HIGH
+Avoid CSS @import
+A (92)
+CSS MEDIUM
+Specify a cache validator
+A (96)
+SERVER HIGH
+Minimize request size
+A (99)
+CONTENT HIGH
+Minify JavaScript
+A (99)
+JS HIGH
+Minify HTML
+A (99)
+CONTENT LOW
+Specify image dimensions
+A (99)
+IMAGES MEDIUM
+Minify CSS
+A (99)
+CSS HIGH
+Enable gzip compression
+A (99)
+SERVER HIGH
+Avoid bad requests
+A (100)
+CONTENT HIGH
+Avoid landing page redirects
+A (100)
+SERVER HIGH
+Enable Keep-Alive
+A (100)
+SERVER HIGH
+Inline small CSS
+A (100)
+CSS HIGH
+Inline small JavaScript
+A (100)
+JS HIGH
+Optimize the order of styles and scripts
+A (100)
+CSS/JS HIGH
+Put CSS in the document head
+A (100)
+CSS HIGH
+Remove query strings from static resources
+A (98)
+CONTENT LOW
+Serve scaled images
+A (100)
+IMAGES HIGH
+Combine images using CSS sprites
+A (100)
+IMAGES HIGH
+Prefer asynchronous resources
+A (100)
+JS MEDIUM
+Specify a Vary: Accept-Encoding header
+A (99)
+SERVER LOW
+Specify a character set early
+A (100)
+CONTENT MEDIUM
+Avoid a character set in the meta tag
+A (100)
+CONTENT LOW

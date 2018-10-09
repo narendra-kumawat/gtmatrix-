@@ -1,0 +1,109 @@
+url,country,pageSpeedScore,ySlow,fullyLoadedTime,totalPageTime,request,pageSpeedIssues,YSlowIssues
+https://www.datamintelligence.com/research-report/active-pharmaceutical-ingredients-market/,"Dallas, USA","(87%)
+","(89%)
+","5.8s
+","1.10MB
+","41
+","Optimize images
+D (66)
+,Serve resources from a consistent URL
+C (72)
+,","Add Expires headers
+F (45)
+,Use cookie-free domains
+E (55)
+,Reduce DNS lookups
+C (70)
+,"
+https://www.datamintelligence.com/research-report/active-pharmaceutical-ingredients-market/,"London, UK","(87%)
+","(89%)
+","3.8s
+","1.11MB
+","43
+","Optimize images
+D (66)
+,Serve resources from a consistent URL
+C (72)
+,","Add Expires headers
+F (45)
+,Use cookie-free domains
+E (55)
+,Reduce DNS lookups
+D (65)
+,"
+https://www.datamintelligence.com/research-report/active-pharmaceutical-ingredients-market/,"Mumbai, India","(87%)
+","(87%)
+","4.4s
+","1.10MB
+","42
+","Optimize images
+D (66)
+,Serve resources from a consistent URL
+C (72)
+,","Add Expires headers
+F (34)
+,Use cookie-free domains
+E (55)
+,Reduce DNS lookups
+D (65)
+,"
+https://www.datamintelligence.com/research-report/active-pharmaceutical-ingredients-market/,"Sydney, Australia","(87%)
+","(87%)
+","6.7s
+","1.10MB
+","42
+","Optimize images
+D (66)
+,Serve resources from a consistent URL
+C (72)
+,","Add Expires headers
+F (34)
+,Use cookie-free domains
+E (55)
+,Reduce DNS lookups
+D (65)
+,"
+https://www.datamintelligence.com/research-report/active-pharmaceutical-ingredients-market/,"São Paulo, Brazil","(87%)
+","(89%)
+","5.5s
+","1.10MB
+","42
+","Optimize images
+D (66)
+,Serve resources from a consistent URL
+C (72)
+,","Add Expires headers
+F (45)
+,Use cookie-free domains
+E (55)
+,Reduce DNS lookups
+D (65)
+,"
+https://www.datamintelligence.com/research-report/asia-pacific-adhesives-sealants-market/,"Dallas, USA","(89%)
+","(89%)
+","4.5s
+","1.04MB
+","41
+","Serve resources from a consistent URL
+C (72)
+,","Add Expires headers
+F (45)
+,Use cookie-free domains
+E (55)
+,Reduce DNS lookups
+C (70)
+,"
+https://www.datamintelligence.com/research-report/asia-pacific-adhesives-sealants-market/,"London, UK","(88%)
+","(87%)
+","3.7s
+","1.04MB
+","42
+","Serve resources from a consistent URL
+C (72)
+,","Add Expires headers
+F (34)
+,Use cookie-free domains
+E (55)
+,Reduce DNS lookups
+D (65)
+,"

@@ -1,0 +1,58 @@
+RECOMMENDATION GRADE TYPE PRIORITY
+Add Expires headers
+F (45)
+SERVER HIGH
+Use cookie-free domains
+E (55)
+COOKIE LOW
+Reduce DNS lookups
+C (70)
+CONTENT LOW
+Make fewer HTTP requests
+A (92)
+CONTENT HIGH
+Compress components with gzip
+A (100)
+SERVER HIGH
+Use a Content Delivery Network (CDN)
+A (100)
+SERVER MEDIUM
+Minify JavaScript and CSS
+A (100)
+CSS/JS MEDIUM
+Avoid URL redirects
+A (100)
+CONTENT MEDIUM
+Make AJAX cacheable
+A (100)
+JS MEDIUM
+Remove duplicate JavaScript and CSS
+A (100)
+CSS/JS MEDIUM
+Avoid AlphaImageLoader filter
+A (100)
+CSS MEDIUM
+Avoid HTTP 404 (Not Found) error
+A (100)
+CONTENT MEDIUM
+Reduce the number of DOM elements
+A (100)
+CONTENT LOW
+Use GET for AJAX requests
+A (100)
+JS LOW
+Avoid CSS expressions
+A (100)
+CSS LOW
+Reduce cookie size
+A (100)
+COOKIE LOW
+Make favicon small and cacheable
+A (100)
+IMAGES LOW
+Configure entity tags (ETags)
+A (100)
+SERVER LOW
+Make JavaScript and CSS external
+(n/a)
+CSS/JS MEDIUM
