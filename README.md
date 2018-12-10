@@ -30,3 +30,4 @@ urlList=[
     ]
 ```
 After adding all the urls in the urls.py file now run the file `gtmetricxScrapper.py`.
+Once the process is done then the csv will be placed inside the report directory and the csv will be named as report.csv
